@@ -1,0 +1,21 @@
+{
+  "name": "sourcemaps-issue",
+  "version": "1.0.0",
+  "description": "Test project for sourcemaps issue investigation",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pawel Weselak",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-header": "2.0.5",
+    "gulp-modify": "^0.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace-with-sourcemaps": "^0.7.1",
+    "gulp-sourcemaps": "2.6.4",
+    "gulp-typescript": "5.0.0-alpha.1",
+    "typescript": "2.9.2"
+  }
+}
